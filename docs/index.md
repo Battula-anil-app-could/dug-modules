@@ -2,7 +2,7 @@
 Introduction
 ------------------------------------
 
-d-modules are an open-source library created by builders for builders with the scope of making smart contracts building a bit more modular on MultiversX ecosystem.
+d-modules are an open-source library created by builders for builders with the scope of making smart contracts building a bit more modular on Dharithri ecosystem.
 
 Since the main SDK also provides a list of base modules that are used by the community, we felt that we can also contribute to this idea by making the community bring their components together and build a safer ecosystem.
 
