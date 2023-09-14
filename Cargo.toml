@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "d-modules",
+    "tests",
+    "tests/meta"
+]
